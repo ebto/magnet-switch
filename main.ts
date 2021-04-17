@@ -1,5 +1,5 @@
 motobit.enable(MotorPower.On)
-basic.showString("btn")
+basic.showString("magnet")
 basic.pause(1000)
 motobit.enable(MotorPower.Off)
 basic.clearScreen()
